@@ -70,7 +70,7 @@ const music_list = [
         music : 'music/martin-gina.mp3'
     },
     {
-        img : 'images/shotta-flow',
+        img : 'images/shotta-flow.png',
         name : 'Shotta Flow',
         artist : 'NLE Choppa',
         music : 'music/shotta-flow.mp3'
