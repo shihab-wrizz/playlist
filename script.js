@@ -74,6 +74,18 @@ const music_list = [
         name : 'Shotta Flow',
         artist : 'NLE Choppa',
         music : 'music/shotta-flow.mp3'
+    },
+    {
+        img : 'images/shotta-flow.jpg',
+        name : 'No Idea',
+        artist : 'Don Toliver',
+        music : 'music/no-idea.mp3'
+    },
+    {
+        img : 'images/stuck-in-a-dream.jpg',
+        name : 'Stuck In A Dream',
+        artist : 'Lil Mosey',
+        music : 'music/stuck-in-a-dream.mp3'
     }
 ];
 
